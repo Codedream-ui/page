@@ -1,0 +1,115 @@
+
+.mod-02{
+    line-height: 26px;
+    font-size: 16px;
+    color: #4c4c4c;
+}
+.mod-02 img{
+    display: block;
+    max-width: 100%;
+}
+
+
+/*01 about us*/
+.mod-03{
+    width: 100%;
+    min-width: 1200px;
+    height: 75px;
+    line-height: 75px;
+    background: #ebebeb;
+}
+.mod-03 .name{
+    font-size: 18px;
+    color: #656565;
+}
+.address{
+    font-size: 14px;
+    color: #4c4c4c;
+}
+.address a{
+    color: #4c4c4c;
+    transition: all 0.5s;
+}
+.address a:hover,
+.address .on{
+    color: #014c85;
+}
+
+
+/*02 Agenda*/
+.fs20{ font-size: 20px;}
+.mod-04{
+    height: 500px;
+    line-height: 54px;
+    padding-top: 200px;
+    font-size: 16px;
+    color: #3b3b3b;
+    text-align: center;
+}
+.mod-04 input{
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    background: #007dbd;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+}
+.mod-04 .a-1{
+    font-size: 24px;
+    color: #007dbd;
+}
+
+.mod-05{
+    padding: 88px 115px;
+}
+.mod-05 .text-1{
+    line-height: 32px;
+    font-size: 18px;
+    color: #656565;
+}
+.mod-05 .text-1 span{
+    color: #007dbd;
+    text-decoration: underline;
+}
+.mod-05 .text-2{
+    line-height: 28px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #d2d2d2;
+    font-size: 14px;
+    color: #666;
+}
+.mod-05 .text-2 .box{
+    height: 434px;
+    overflow: auto;
+}
+.mod-05 .text-2 .box .mCSB_scrollTools .mCSB_draggerRail{
+    width: 5px;
+    background: #ddd;
+    border-radius: inherit;
+}
+.mod-05 .text-2 .box .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+    width: 5px;
+    background: #007dbd;
+    border-radius: inherit;
+}
+.mod-05 .text-2 .box .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar{
+    background: #007dbd;
+    opacity: 1;
+}
+.fs18{ font-size: 18px;}
+.color-333{ color: #333;}
+.color-007dbd{ color: #007dbd;}
+.color-EE0000{ color: #EE0000;}
+
+.table-01>tbody>tr>td{
+    padding: 15px 10px;
+    border: 1px dashed #ccc;
+}
+
+.table-agenda>tbody>tr>td{
+    padding: 15px 10px;
+    border: 2px  #ccc;
+}
